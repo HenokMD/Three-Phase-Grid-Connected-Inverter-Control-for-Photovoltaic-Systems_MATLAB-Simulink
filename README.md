@@ -1,10 +1,6 @@
 # Three-Phase-Grid-Connected-Inverter-Control-for-Photovoltaic-Systems_MATLAB-Simulink
 A MATLAB/Simulink model of a 108 kW two-stage grid-connected PV system featuring MPPT (P&amp;O), dq-control, SPWM, and an LCL filter.
 
-# Grid-Connected PV System Simulink Model
-
-A Simulink model of a 108 kW two-stage grid-connected photovoltaic (PV) system.
-
 ## Key Features
 - PV Array Model (REC Solar REC215PE modules)
 - DC-DC Boost Converter with P&O MPPT Algorithm
