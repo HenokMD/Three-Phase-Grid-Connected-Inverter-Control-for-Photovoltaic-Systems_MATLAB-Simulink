@@ -94,6 +94,21 @@ Where:
 The LCL filter ensures compliance with grid harmonic standards and enhances the power quality injected into the grid.
 
 ## Results
+### Irradiation Profile
+![image alt](https://github.com/HenokMD/Three-Phase-Grid-Connected-Inverter-Control-for-Photovoltaic-Systems_MATLAB-Simulink/blob/main/irradiation%20profile.png)
+
+### PV array Power, Voltage and Current outputs for the given irradiation profile.
+![PV output](https://github.com/HenokMD/Three-Phase-Grid-Connected-Inverter-Control-for-Photovoltaic-Systems_MATLAB-Simulink/blob/main/PV%20array%20Power%2C%20Voltage%20and%20Current%20outputs%20for%20the%20given%20irradiation%20profile.png)
+### DC Link Voltage.
+![image alt](https://github.com/HenokMD/Three-Phase-Grid-Connected-Inverter-Control-for-Photovoltaic-Systems_MATLAB-Simulink/blob/main/DC%20Link%20Voltage.png)
+### The direct and quadrature currents of the injected current.
+![image alt](https://github.com/HenokMD/Three-Phase-Grid-Connected-Inverter-Control-for-Photovoltaic-Systems_MATLAB-Simulink/blob/main/The%20direct%20and%20quadrature%20currents%20of%20the%20injected%20current..png)
+### Three phase grid voltage and grid current waveform at PCC.
+![image alt](https://github.com/HenokMD/Three-Phase-Grid-Connected-Inverter-Control-for-Photovoltaic-Systems_MATLAB-Simulink/blob/main/Three%20phase%20grid%20voltage%20and%20grid%20current%20waveform%20at%20PCC.png)
+### Dynamic response of phase current and phase voltage.
+![image alt](https://github.com/HenokMD/Three-Phase-Grid-Connected-Inverter-Control-for-Photovoltaic-Systems_MATLAB-Simulink/blob/main/Dynamic%20response%20of%20phase%20current%20and%20phase%20voltage..png)
+### Total Harmonic Distortion of grid current at the PCC.
+![image alt](https://github.com/HenokMD/Three-Phase-Grid-Connected-Inverter-Control-for-Photovoltaic-Systems_MATLAB-Simulink/blob/main/Total%20Harmonic%20Distortion%20of%20grid%20current%20at%20the%20PCC.png)
 
 ## Getting Started
 ### Requirements:
